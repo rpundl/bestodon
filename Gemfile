@@ -3,6 +3,7 @@
 source 'https://rubygems.org'
 ruby '>= 3.0.0'
 
+gem 'yarn', '~> 4.0.2'
 gem 'puma', '~> 6.3'
 gem 'rails', '~> 7.1.1'
 gem 'propshaft'
